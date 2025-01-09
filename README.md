@@ -30,7 +30,7 @@ A web app designed for car inventory and transaction management, enhancing effic
 - Mobile app development with React Native.
 
 ## Quick Setup
-1. **Clone repo:** `git clone https://github.com/001sarvesh/Car_Management_System.git`
+1. **Clone repo:** `https://github.com/shiva177/Car_Management_System.git`
 2. **Navigate:** `cd Car_Management_System`
 3. **Install:** `npm install`
 4. **Run:** `npm start`
