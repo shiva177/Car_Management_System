@@ -1,7 +1,7 @@
 
 # Supporting Document for Car Management System
 
-**Repository Link:** [GitHub](https://github.com/001sarvesh/Car_Management_System)  
+**Repository Link:** [GitHub](https://github.com/shiva177/Car_Management_System)  
 **Live Demo:** [Car Management System Live](https://car-management-system-frontend.onrender.com/)
 
 ## Project Summary
